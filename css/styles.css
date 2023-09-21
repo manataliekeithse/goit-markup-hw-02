@@ -6,6 +6,7 @@
   font-family: "Roboto", sans-serif;
 }
 
+/* logo-Header */
 .logo {
   text-decoration: none;
   color: var(--NAVY-BLUE);
@@ -29,6 +30,7 @@
   text-transform: uppercase;
 }
 
+/* heading-1 */
 section.effective {
   background-color: var(--NAVY-BLUE, #2e2f42);
 }
@@ -52,6 +54,7 @@ button {
   cursor: pointer;
 }
 
+/* services */
 .main-header-link-studio {
   list-style-type: none;
   text-decoration: none;
@@ -101,7 +104,7 @@ button {
 .main-header-phone-item {
   list-style-type: none;
 }
-
+/* Contacts */
 .email {
   text-decoration: none;
   color: #434455;
@@ -123,7 +126,7 @@ button {
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  line-height: 24px; /* 150% */
+  line-height: 24px;
   letter-spacing: 0.32px;
 }
 .services {
@@ -134,6 +137,7 @@ button {
   text-align: center;
 }
 
+/* values */
 .strategy {
   list-style-type: none;
 }
@@ -150,6 +154,7 @@ button {
   list-style-type: none;
 }
 
+/* what we do-images */
 .rectangle1 {
   list-style-type: none;
   flex-direction: column;
@@ -174,6 +179,7 @@ button {
   height: 300px;
 }
 
+/* team-members */
 .mark {
   list-style-type: none;
   width: 264px;
@@ -193,6 +199,8 @@ button {
   list-style-type: none;
   width: 264px;
 }
+
+/* footer */
 footer.logo {
   font-family: Raleway;
   background-color: var(--NAVY-BLUE);
